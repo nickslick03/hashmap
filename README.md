@@ -1,3 +1,3 @@
 # hashmap
 
-for The Odin Project Javascript Module
+For The Odin Project Javascript Module
